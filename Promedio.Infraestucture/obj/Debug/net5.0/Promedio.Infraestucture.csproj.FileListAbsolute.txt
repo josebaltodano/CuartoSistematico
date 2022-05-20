@@ -1,0 +1,17 @@
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\Promedio.Infraestucture.deps.json
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\Promedio.Infraestucture.runtimeconfig.json
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\Promedio.Infraestucture.runtimeconfig.dev.json
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\Promedio.Infraestucture.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\ref\Promedio.Infraestucture.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\Promedio.Infraestucture.pdb
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\Promedio.Domain.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\bin\Debug\net5.0\Promedio.Domain.pdb
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.AssemblyInfoInputs.cache
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.AssemblyInfo.cs
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\ref\Promedio.Infraestucture.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.pdb
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Infraestucture\obj\Debug\net5.0\Promedio.Infraestucture.genruntimeconfig.cache

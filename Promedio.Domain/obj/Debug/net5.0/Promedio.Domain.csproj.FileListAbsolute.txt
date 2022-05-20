@@ -1,0 +1,15 @@
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\bin\Debug\net5.0\Promedio.Domain.deps.json
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\bin\Debug\net5.0\Promedio.Domain.runtimeconfig.json
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\bin\Debug\net5.0\Promedio.Domain.runtimeconfig.dev.json
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\bin\Debug\net5.0\Promedio.Domain.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\bin\Debug\net5.0\ref\Promedio.Domain.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\bin\Debug\net5.0\Promedio.Domain.pdb
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.AssemblyInfoInputs.cache
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.AssemblyInfo.cs
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\ref\Promedio.Domain.dll
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.pdb
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.genruntimeconfig.cache
+C:\Users\Cristina\source\repos\Promedio.App\Promedio.Domain\obj\Debug\net5.0\Promedio.Domain.csproj.AssemblyReference.cache
